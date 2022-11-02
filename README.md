@@ -1,1 +1,1 @@
-# nokoken_portfolio
+# ビュフォンの針（OECU数学サークル）
